@@ -68,41 +68,51 @@ redirect_from:
 **[Технологии компьютерного моделирования](https://disk.yandex.ru/d/g3MID0d-Weqo_g)**
 
 ## 5 Семестр
-**[]()**
+**[IT-менеджмент](https://disk.yandex.ru/d/nstzkfhz6X1lBQ)**
 
-**[]()**
+**[Основы бизнес-информатики](https://disk.yandex.ru/d/pqYHGfX4ix4yTw)**
 
-**[]()**
+**[Информационные технологии в изучении иностранных языков](https://disk.yandex.ru/d/k067PK12dX4yHg)**
 
-**[]()**
+**[Компьютерная графика](https://disk.yandex.ru/d/dtou3ujDzKAweg)**
 
-**[]()**
+**[Математические основы компьютерной графики](https://disk.yandex.ru/d/W9J06I7TTp_QEg)**
 
-**[]()**
+**[Сети и телекоммуникации](https://disk.yandex.ru/d/QtsUvjLdvUPOCw)**
 
-**[]()**
-
-**[]()**
-
-**[]()**
-
-**[]()**
-
-**[]()**
-
-**[]()**
-
-**[]()**
-
-**[]()**
-
-**[]()**
-
-**[]()**
-
+**[Программирование](https://disk.yandex.ru/d/nsdrZvwXIWMDsw)**
 
 ## 6 Семестр
+**[Визуализация данных и инфографика](https://disk.yandex.ru/d/rXbinSrLUPlALg)**
+
+**[Основы корпоративного электронного обучения](https://disk.yandex.ru/d/3fNNCAuGYaLqLA)**
+
+**[Инженерная графика](https://disk.yandex.ru/d/qJN0xmwgOY2cbw)**
+
+**[Программирование](https://github.com/Neon-Armorina/6-semesterr)**
+
+**[Защита информации](https://disk.yandex.ru/d/xLqnKXBHQL_sMw)**
 
 ## 7 Семестр
+**[Практика 7 семестр](https://github.com/Neon-Armorina/7Semester-Practice)**
+
+**[Программирование](https://disk.yandex.ru/d/yAI8RgKXOhPmaw)**
+
+**[Английский язык](https://disk.yandex.ru/d/f9TahjiM9_nAqw)**
+
+**[Организация электронной образовательной среды](https://disk.yandex.ru/d/7JYKJiMChShFmQ)**
 
 ## 8 Семестр
+**[Мировые информационные ресурсы и цифровые библиотеки](https://disk.yandex.ru/d/3SciWmrN65o6eg)**
+
+**[Социальные и профессиональные вопросы информатики и ИТ](https://disk.yandex.ru/d/6tpis1lxrkwiSw)**
+
+**[IT-рекрутмент](https://disk.yandex.ru/d/0nQdn95QtEOyQg)**
+
+**[Английский язык](https://disk.yandex.ru/d/f9TahjiM9_nAqw)**
+
+**[Информационные технологии оценки персонала](https://disk.yandex.ru/d/soK2tfeZ_BDQ2w)**
+
+**[Пакеты прикладных программ для статистической обработки и анализа данных](https://disk.yandex.ru/d/itcGZEuRlskcdw)**
+
+**[Языки написания спецификаций](https://github.com/Neon-Armorina/Spec_lenguages_lr4)**
