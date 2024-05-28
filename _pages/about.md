@@ -46,38 +46,60 @@ redirect_from:
 **[Физическая культура и спорт](https://disk.yandex.ru/d/rRF6nnHyPCD6lA)**
 
 ## 3 Семестр
-[]()
+**[Физика](https://disk.yandex.ru/d/5E-FEeQpqp_CFQ)**
 
-[]()
+**[Анализ данных и основы Data science](https://disk.yandex.ru/d/UjK9GF_-xHBjDQ)**
 
-[]()
+**[Вычислительная математика](https://disk.yandex.ru/d/jXC9LuCprR3TNA)**
 
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
 ## 4 Семестр
+**[Базы данных](https://disk.yandex.ru/d/MJlrwnX1kOe4ug)**
+
+**[Иностранный язык (английский)](https://disk.yandex.ru/d/70LL1ZWb8cTdDw)**
+
+**[Вычислительная техника](https://disk.yandex.ru/d/3rVFj4ZhHFfLwg)**
+
+**[Операционные системы](https://disk.yandex.ru/d/t_cOHmJ6sAUPDw)**
+
+**[Проектирование и разработка веб-решений](https://disk.yandex.ru/d/sitP4jwBg2qDSQ)**
+
+**[Анализ данных и основы Data science](https://disk.yandex.ru/d/UjK9GF_-xHBjDQ)**
+
+**[Технологии компьютерного моделирования](https://disk.yandex.ru/d/g3MID0d-Weqo_g)**
 
 ## 5 Семестр
+**[]()**
+
+**[]()**
+
+**[]()**
+
+**[]()**
+
+**[]()**
+
+**[]()**
+
+**[]()**
+
+**[]()**
+
+**[]()**
+
+**[]()**
+
+**[]()**
+
+**[]()**
+
+**[]()**
+
+**[]()**
+
+**[]()**
+
+**[]()**
+
 
 ## 6 Семестр
 
