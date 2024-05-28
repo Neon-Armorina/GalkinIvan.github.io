@@ -29,7 +29,7 @@ redirect_from:
 **[Экономика](https://disk.yandex.ru/d/d60zko2LD1sqsA)**
 
 ## 2 Семестр
-[Физика](https://disk.yandex.ru/d/HtvPUNzfos2iNw)**
+**[Физика](https://disk.yandex.ru/d/HtvPUNzfos2iNw)**
 
 **[Информационные технологии](https://disk.yandex.ru/d/kaHUjITcxd9olg)**
 
