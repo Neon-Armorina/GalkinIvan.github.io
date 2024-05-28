@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## 1 Семестр
-
+[Дискретная математика]{https://disk.yandex.ru/d/-2Mo8HoDQZhvwQ}
 ## 2 Семестр
 
 ## 3 Семестр
