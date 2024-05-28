@@ -9,6 +9,8 @@ redirect_from:
 
 ## 1 Семестр
 [Дискретная математика]{https://disk.yandex.ru/d/-2Mo8HoDQZhvwQ}
+[Информатика и физика для инженеров]{https://disk.yandex.ru/d/gyJLBHg7l2OJKQ}
+
 ## 2 Семестр
 
 ## 3 Семестр
